@@ -5,3 +5,25 @@ members = [
   "adder",
   "adder/meta"
 ]
+
+
+# [package]
+# name = "sc_nft"
+# version = "0.0.1"
+# authors = [ "abde",]
+# edition = "2018"
+
+# [lib]
+# name = "sc_nft"
+# path = "src/sc_nft.rs"
+
+# [dev-dependencies]
+# num-bigint = "0.4.2"
+# num-traits = "0.2"
+# hex = "0.4"
+
+# [dependencies.elrond-wasm]
+# version = "0.30.0"
+
+# [dev-dependencies.elrond-wasm-debug]
+# version = "0.30.0"
